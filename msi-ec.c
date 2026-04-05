@@ -1684,6 +1684,7 @@ static const char *ALLOWED_FW_G2_10[] __initconst = {
 	"17S1IMS2.112",
 	"17S2IMS1.113", // Raider GE78 HX Smart Touchpad 13V
 	"17S3EMS1.104", // Vector 17 HX AI A2XWHG
+	"17S3EMS1.107", // Vector 17 HX AI A2XWIG
 	"17T2EMS1.110", // Sword 17 HX B14VGKG
 	"1822EMS1.105", // Titan 18 HX A14V
 	"1822EMS1.109", // WMI 2.8
